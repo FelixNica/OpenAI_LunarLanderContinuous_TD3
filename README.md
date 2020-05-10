@@ -1,7 +1,7 @@
 # OpenAI_LunarLanderContinuous_TD3
 Submission for OpenAI Gym Leaderboard - LunarLanderContinuous-v2 solved in 556 episodes
 
-
+```
 Total T: 165315 Episode Num: 543 Episode T: 524 Reward: 211.533
 Total T: 165537 Episode Num: 544 Episode T: 222 Reward: 265.392
 Total T: 165777 Episode Num: 545 Episode T: 240 Reward: 266.812
@@ -27,3 +27,4 @@ Solved: At training episode 556 mean for 100eps evaluation is 212.16 >= 200
 ================================================================================
 
 Process finished with exit code 0
+```
