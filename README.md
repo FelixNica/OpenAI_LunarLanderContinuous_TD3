@@ -1,6 +1,7 @@
 # OpenAI_LunarLanderContinuous_TD3
 Submission for OpenAI Gym Leaderboard - LunarLanderContinuous-v2 solved in 556 episodes
 
+[Leatherboard Submission](https://github.com/openai/gym/wiki/Leaderboard#lunarlandercontinuous-v2)
 [Link to Youtube Video](https://www.youtube.com/watch?v=u2_a69Mgask)
 
 ```
